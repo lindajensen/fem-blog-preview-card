@@ -76,6 +76,7 @@ a {
 
 a:hover {
     color: var(--primary);
+    cursor: url('/assets/images/icons8-pointer-26.png'), auto;
 }
 
 #light {
