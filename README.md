@@ -56,7 +56,7 @@ a:hover {
 
 ### Continued development
 
-I need to continue working with Flexbox and also margin and padding. I feel like I'm getting better and better at it, but I definitely need more practice. I also need to keep working with media queries and learn how to do a mobile-first design.
+I need to continue working with Flexbox and also margin and padding. I feel like I'm getting better and better at it, but I definitely need more practice. I also need to keep working with media queries and learn how to do a mobile-first design. I also need to learn more about rems and ems. 
 
 ### Useful resources
 
