@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned about box-shadow, which was new to me. I mean I've seen it on webpages, but I've never tried it myself. SO that was really cool
+I learned about box-shadow, which was new to me. I mean I've seen it on webpages, but I've never tried it myself. So that was really cool.
 
 I also learned about how to use an image as a pointer. I'm not sure that was how the challenge was suppose to be solved but it worked.
 
