@@ -14,7 +14,7 @@
 body {
     background-color: var(--primary);
     font-family: "Figtree", sans-serif;
-    font-size: 15px;
+    font-size: 0.938rem;
     color: var(--black);
 }
 
@@ -53,7 +53,7 @@ img {
     padding: 8px 15px;
     border-radius: 5px;
     margin-bottom: 15px;
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 
 .learning p {
@@ -61,13 +61,13 @@ img {
 }
 
 #dark {
-    font-size: 14px;
+    font-size: 0.875rem;
     margin-bottom: 15px;
     font-weight: 500;
 }
 
 a {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 800;
     text-decoration: none;
     color: var(--black);
